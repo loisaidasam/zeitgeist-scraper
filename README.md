@@ -11,7 +11,7 @@ Update: I found this site
 
 [http://www.albumoftheyear.org](http://www.albumoftheyear.org)
 
-and it kinda does everything I was looking to do...
+and it kinda does everything I was looking to do [here](http://www.albumoftheyear.org/lists.php) ...
 
 A fun tip though, if you want to get the raw text lists from any of these, choose a list, such as NPR, and use the link in combination with [pup](https://github.com/EricChiang/pup) like this:
 
